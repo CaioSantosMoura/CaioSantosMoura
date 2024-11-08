@@ -20,7 +20,7 @@ Atualmente, estou no 2º ano do ensino médio e estudo no período da manhã. Tr
 
 ## 📊 Meus Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantosMoura&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantosMoura&theme=dark)](https://git.io/streak-stats).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSantosMoura&layout=compact)
 
