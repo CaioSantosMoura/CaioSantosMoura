@@ -12,15 +12,14 @@ Atualmente, estou no 2º ano do ensino médio e estudo no período da manhã. Tr
 <img alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-"/> 
+<img alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div>
 
 
 
 ## 📊 Meus Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantosMoura&theme=dark)](https://git.io/streak-stats).
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantosMoura&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSantosMoura&layout=compact)
 
