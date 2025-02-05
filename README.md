@@ -1,6 +1,6 @@
 # 👋 Opaa! Eu me chamo Caio dos Santos Moura
 
-Atualmente, estou no 2º ano do ensino médio e estudo no período da manhã. Trabalho a tarde e a noite no CentroWeg, e estou realizando meu sonho de me tornar programador, com o objetivo de ser um desenvolvedor full-stack.
+Atualmente, estou no 3º ano do ensino médio e estudo no período da manhã. Trabalho a tarde e a noite no CentroWeg, e estou realizando meu sonho de me tornar programador, com o objetivo de ser um desenvolvedor full-stack.
 
 
 
